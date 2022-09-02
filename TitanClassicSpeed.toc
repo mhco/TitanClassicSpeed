@@ -1,8 +1,8 @@
-## Interface: 20504
-## Title: Titan Panel Classic [|cffeda55fSpeed|r] |cff00aa002.0.20504|r
+## Interface: 30400
+## Title: Titan Panel Classic [|cffeda55fSpeed|r] |cff00aa002.0.30400|r
 ## Notes: Titan Panel plugin that shows your movement speed.
 ## Dependencies: TitanClassic
-## Version: 2.0.20504
+## Version: 2.0.30400
 ## X-Child-Of: TitanClassic
 
 TitanClassicSpeed.lua
